@@ -1,0 +1,101 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading1",
+						"content": {
+							"text": "Monkey"
+						}
+					}
+				]
+			},
+			"subheading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Amet irure in aliqua aute laboris officia. Ut in ullamco mollit aliqua et et commodo sint consequat. Nulla eu adipisicing enim amet laborum nostrud nostrud proident."
+						}
+					}
+				]
+			},
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Qui irure magna tempor adipisicing duis cillum voluptate labore nostrud adipisicing sunt ex dolor. Nostrud sit quis mollit voluptate eiusmod fugiat ut cupidatat nulla. Consequat ipsum id irure aliqua fugiat aliquip mollit velit aliquip excepteur ex officia tempor eiusmod ad."
+						}
+					}
+				]
+			},
+			"button_text": {
+				"__TYPE__": "FieldContent",
+				"value": "large",
+				"type": "Text"
+			},
+			"button_link": {
+				"key": "1b009faa-49fe-423b-9149-16d339576624",
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "http://google.com",
+					"text": "famous"
+				}
+			},
+			"cans_image": {
+				"origin": {
+					"id": "main",
+					"url": "https://images.unsplash.com/photo-1587653915936-5623ea0b949a",
+					"width": 4000,
+					"height": 4000
+				},
+				"url": "https://images.unsplash.com/photo-1587653915936-5623ea0b949a",
+				"width": 4000,
+				"height": 4000,
+				"edit": {
+					"zoom": 1,
+					"crop": {
+						"x": 0,
+						"y": 0
+					},
+					"background": "transparent"
+				},
+				"credits": null,
+				"alt": null,
+				"__TYPE__": "ImageContent",
+				"thumbnails": {}
+			},
+			"seconfd_heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Organized"
+						}
+					}
+				]
+			},
+			"second_body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Occaecat amet id adipisicing amet velit commodo minim adipisicing. Irure sunt magna ad fugiat in Lorem incididunt aute eiusmod sit magna eu aute excepteur. Id excepteur dolor sint irure aliquip est veniam."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
