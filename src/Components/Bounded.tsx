@@ -23,4 +23,4 @@ type BoundedProps = {
     </Comp>
   );
 };
-export default Bounded;
+export default Bounded;  
